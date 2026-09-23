@@ -1,5 +1,6 @@
 ## Hi! I'm Rachel Miller
 
+<pre>
 .-------.       ____        _______   .---.  .---.     .-''-.    .---.             ,---.    ,---..-./`)   .---.     .---.       .-''-.  .-------.     
 |  _ _   \    .'  __ `.    /   __  \  |   |  |_ _|   .'_ _   \   | ,_|             |    \  /    |\ .-.')  | ,_|     | ,_|     .'_ _   \ |  _ _   \    
 | ( ' )  |   /   '  \  \  | ,_/  \__) |   |  ( ' )  / ( ` )   ',-./  )             |  ,  \/  ,  |/ `-' \,-./  )   ,-./  )    / ( ` )   '| ( ' )  |    
@@ -9,5 +10,6 @@
 |  | \ `'   /|  _( )_  |(  .  .-'_/  )|( ' ) |   |  \  `-'    / `-'`-'|___         |  (_,_)  |  | |   |  `-'`-'|___`-'`-'|___\  `-'    /|  | \ `'   / 
 |  |  \    / \ (_ o _) / `-'`-'     / (_{;}_)|   |   \       /   |        \        |  |      |  | |   |   |        \|        \\       / |  |  \    /  
 ''-'   `'-'   '.(_,_).'    `._____.'  '(_,_) '---'    `'-..-'    `--------`        '--'      '--' '---'   `--------``--------` `'-..-'  ''-'   `'-'   
-                                                                                                                                                      
+</pre>
+
 I am currently pursuing a Master's in Environmental Data Science at the University of California Santa Barbara. Professionally, my experience spans education, proposal writing, and microbiological analysis for quality control and environmental health. 
